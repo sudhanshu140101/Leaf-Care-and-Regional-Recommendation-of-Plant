@@ -36,3 +36,14 @@ An intelligent web-based plant identification and disease detection app built wi
 - **AI Integration**: Google Gemini API  
 - **Styling**: Tailwind CSS with modern agricultural UI elements
 
+## 📸 How It Works
+
+1. Bot loads when the app starts
+2. User sees option to **upload an image**
+3. AI processes the image, responds with:
+   - Plant name
+   - Important facts
+   - Disease (if any)
+4. User can chat with the bot for more info
+5. AI gives **region-based plant suggestions** (for India)
+
