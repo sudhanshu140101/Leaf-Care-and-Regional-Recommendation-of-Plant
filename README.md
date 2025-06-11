@@ -47,3 +47,7 @@ An intelligent web-based plant identification and disease detection app built wi
 4. User can chat with the bot for more info
 5. AI gives **region-based plant suggestions** (for India)
 
+✨ Future Improvements
+1. Add multilingual support (e.g. Hindi)
+2. Store past chats and identifications
+3. Enable offline image recognition
