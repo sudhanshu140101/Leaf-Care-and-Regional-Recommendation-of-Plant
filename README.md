@@ -1,6 +1,6 @@
-# Leaf-Care-and-Regional-Recommendation-of-Plant
+# Leaf-Care-and-Regional-Recommendation-of-Plant 
 
-# 🌿 Plant Identifier & Disease Detection AI Web App
+# 🌿 Plant Identifier & Disease Detection AI Web App -
 
 An intelligent web-based plant identification and disease detection app built with **Next.js** and **MongoDB**, integrated with **Google Gemini AI**. The app provides instant plant recognition, disease insights, and location-based plant suggestions (focused on Indian regions) through an interactive AI chat interface — all in a modern, agriculture-themed UI.
 
