@@ -4,7 +4,7 @@
 
 An intelligent web-based plant identification and disease detection app built with **Next.js** and **MongoDB**, integrated with **Google Gemini AI**. The app provides instant plant recognition, disease insights, and location-based plant suggestions (focused on Indian regions) through an interactive AI chat interface — all in a modern, agriculture-themed UI.
 
-## 🔍 Features
+## 🔍 Features-
 
 - 📸 **Image Upload & Recognition**  
   Users can upload images of plants directly to get immediate identification using Google Gemini AI.
